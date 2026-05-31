@@ -1,0 +1,8 @@
+{
+  "name": "Mohammad Interiors",
+  "description": "Modern interior design portfolio and services website for LuxeSpace Interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
